@@ -1,0 +1,102 @@
+.num::-webkit-inner-spin-button,
+.num-spinner::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* ########################################## */
+/* .no-spinner {
+  -moz-appearance: textfield
+} */
+ /* ########################################## */
+
+ body{
+    background: linear-gradient(45deg, #32a852, #4ea1f7, #ffc1cc, #ffea61) fixed;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ }
+
+h1{
+text-align: center;
+display: block;
+}
+.contaner{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background:linear-gradient(45deg, #1a472a, #0359a6, #f06090, #ffd700);
+    /* background-color: rgb(206, 212, 100); */
+    border-radius: 15px;
+    width: 60vw;
+    height: 55vh;
+    border: 5px black solid;
+    padding: 30px;
+}
+.cl1{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20% inherit;
+}
+.cl2{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10% inherit;
+}
+.cl3{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 2px black solid;
+    width: 30vw;
+    height: 35vh;
+margin: 20px;
+background: linear-gradient(45deg, #5d657b, #91a3c9, #bed4ef, #ede4e4);
+border-radius: 12px;
+/* background-color: rgb(207, 204, 28); */
+}
+.p{
+    font-size: 8vw;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.p1{
+    font-size: 8vw;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #19b804;
+}
+.p2{
+    font-size: 8vw;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+.num{
+    width: 20vw;
+    height: 6vh;
+    margin: 10px;
+    font-size: xx-large;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: 2px black solid;
+    border-radius: 10px;
+    /* background-color: transparent; */
+}
+.btn{
+    font-size: x-large;
+    border-radius: 12vmax;
+    width: 9vw;
+    height: 3.8vh;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: darkgrey;
+}
+
