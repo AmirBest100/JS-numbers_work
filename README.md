@@ -1,10 +1,22 @@
-|source 1 : it chekes the numbers that are symmetrical or not . 
-|source 3 : it chekes the numbers if they are prime or not . 
-|source 4 : it findes the next prime numbers (attention : big numbers may cause stoped working) .
-|<note> : the styles aren't responsive well, i will update them later.  
+### 📄 Sources
 
-|how to use : 
-|it is simply working by just intering numbers and clicking on btn
+| NUMBER | COMMENT |
+|--------|----------------|
+| **Source 1** |it chekes the numbers that are symmetrical or not |
+| **Source 3** | it chekes the numbers if they are prime or not |
+| **Source 4** | it findes the next prime numbers (⚠️attention : big numbers may cause stoped working) |
+
+---
+
+### 📝 Note
+
+the styles aren't responsive well, i will update them later.
+---
+
+### ▶️ How to Use
+
+it is simply working by just intering numbers and clicking on btn
+---
 ### 📄 Sources
 
 | شماره | توضیح عملکرد |
