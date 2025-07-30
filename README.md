@@ -36,3 +36,12 @@ it is simply working by just intering numbers and clicking on btn
 ### ▶️ How to Use
 
 به‌سادگی با وارد کردن عدد و کلیک روی دکمه‌ها، برنامه شروع به کار می‌کنه.
+
+______
+### ▶⏸ TEST LINKES 🔗🔄
+
+| source | links |
+| ------- | -------------- |
+| ** source 1 ** | [test link source1](https://amirbest100.github.io/UI_LAB/source1) |
+| ** source 3 ** | [test link source3](https://amirbest100.github.io/UI_LAB/source3) |
+| ** source 4 ** | [test link source4](https://amirbest100.github.io/UI_LAB/source4) |
