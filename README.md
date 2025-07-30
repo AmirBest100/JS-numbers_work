@@ -42,6 +42,6 @@ ______
 
 | source | links |
 | ------- | -------------- |
-| ** source 1 ** | [test link source1](https://amirbest100.github.io/UI_LAB/source1) |
-| ** source 3 ** | [test link source3](https://amirbest100.github.io/UI_LAB/source3) |
-| ** source 4 ** | [test link source4](https://amirbest100.github.io/UI_LAB/source4) |
+| ** source 1 ** | [test link source1](https://amirbest100.github.io/js-part1/source1) |
+| ** source 3 ** | [test link source3](https://amirbest100.github.io/js-part1/source3) |
+| ** source 4 ** | [test link source4](https://amirbest100.github.io/js-part1/source4) |
